@@ -150,7 +150,7 @@ PrefabInstance:
     - target: {fileID: 3973323285765941677, guid: ae543ed150476d244a5a8157dbcf8759,
         type: 3}
       propertyPath: m_Name
-      value: UIPlayer
+      value: UIMonster
       objectReference: {fileID: 0}
     - target: {fileID: 3560750210428429958, guid: ae543ed150476d244a5a8157dbcf8759,
         type: 3}
