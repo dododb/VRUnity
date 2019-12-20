@@ -8,6 +8,7 @@ TagManager:
   - FxTemporaire
   - Monster
   - Flesh
+  - Hand
   layers:
   - Default
   - TransparentFX
